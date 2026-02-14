@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mromer08/loan-management-api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mromer08/loan-management-ui.git
